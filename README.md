@@ -9,4 +9,4 @@ Eu sou recém-formado em Sistema de Informação, procurando oportunidades e col
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagosnts)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/Thiago-santosSh) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Thiago-santosSh) 

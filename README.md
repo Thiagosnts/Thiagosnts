@@ -3,7 +3,7 @@
 ### Oi 👋
 
 Eu sou recém-formado em Sistema de Informação, procurando oportunidades e colaboração em projetos relacionados a desenvolvimento de software e aprendizado profundo..
-- 🔭 Atualmente, estou trabalhando no desenvolvimento de API (além disso, estou aprimorando meu conheciemnto em estruturas de dados e habilidades de algoritmos regularmente).
+- 🔭 Atualmente, estou trabalhando no desenvolvimento de API (além disso, estou aprimorando meus conhecimento em estruturas de dados e habilidades de algoritmos regularmente).
 - 🌱 Atualmente, estou aprendendo padroes de projeto voltados a API e aprendizado profundo usando o Python.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento. 
 

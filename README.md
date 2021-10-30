@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/YfcwZqp/Png-Item-2211837.png">
+<img width="30px" src="https://i.ibb.co/YfcwZqp/Png-Item-2211837.png">
 
 ### Oi 👋
 

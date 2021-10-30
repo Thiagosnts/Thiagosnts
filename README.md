@@ -6,6 +6,7 @@ Eu sou recém-formado em Sistema de Informação, procurando oportunidades e col
 - 🔭 Atualmente, estou trabalhando no desenvolvimento de API (além disso, estou aprimorando meus conhecimento em estruturas de dados e habilidades de algoritmos regularmente).
 - 🌱 Atualmente, estou aprendendo padroes de projeto voltados a API e aprendizado profundo usando o Python.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento. 
+- :rocket: teste
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagosnts)
 

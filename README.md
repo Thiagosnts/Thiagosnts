@@ -4,9 +4,9 @@
 
 Eu sou recém-formado em Sistema de Informação, procurando oportunidades e colaboração em projetos relacionados a desenvolvimento de software e aprendizado profundo..
 - 🔭 Atualmente, estou trabalhando no desenvolvimento de API (além disso, estou aprimorando meus conhecimento em estruturas de dados e habilidades de algoritmos regularmente).
+- :rocket: Atuando no gerenciamento de diversas ferramentas nas nuvens da AWS e AZURE, com foco em EKS e AKS.
 - 🌱 Atualmente, estou aprendendo padroes de projeto voltados a API e aprendizado profundo usando o Python.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento. 
-- :rocket: teste
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagosnts)
 
